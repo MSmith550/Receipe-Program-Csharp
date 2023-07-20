@@ -1,0 +1,16 @@
+﻿{
+	"Name" : "Test Recipe",
+	"Instructions" : "These are test instructions",
+	"Ingredients" : [
+					{
+						"IngredientName" : "Ingredient 1",
+						"Size" : "Cup",
+						"Amount" : 3
+					},
+					{
+						"IngredientName": "Ingredient 2",
+						"Size": "Teaspoon",
+						"Amount": 2
+					}
+	]
+}
